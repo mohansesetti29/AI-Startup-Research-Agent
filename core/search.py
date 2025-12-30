@@ -1,6 +1,7 @@
 
 import urllib.parse
-from ddgs import DDGS
+from duckduckgo_search import DDGS
+
 
 SEARCH_RESULTS = 6
 
