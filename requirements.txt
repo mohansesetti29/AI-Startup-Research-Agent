@@ -1,5 +1,7 @@
-ddgs
+streamlit
+reportlab
 requests
 beautifulsoup4
-sentence-transformers
+duckduckgo-search
 numpy
+sentence-transformers
